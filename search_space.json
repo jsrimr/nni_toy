@@ -1,0 +1,4 @@
+{
+    "x":{"_type":"uniform","_value":[-10,10]},
+    "y":{"_type":"uniform","_value":[-10,10]}
+}
